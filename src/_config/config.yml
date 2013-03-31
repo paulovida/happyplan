@@ -1,5 +1,5 @@
 # Dev tools
-livereload: false
+livereload: true
 # RSS
 name: FIXME
 description: FIXME
